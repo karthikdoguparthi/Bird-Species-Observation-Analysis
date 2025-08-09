@@ -1,6 +1,6 @@
 # Bird-Species-Observation-Analysis
 
-Youtube: 
+Youtube: https://youtu.be/HQPt7P1Jj0k
 
 In this project, I analyzed bird observation data collected from two ecosystems forests and grasslands. My goal was to understand how observer behavior, environmental conditions, and identification methods affect bird detection patterns, and ultimately use those insights to improve monitoring strategies and support biodiversity management.
 
